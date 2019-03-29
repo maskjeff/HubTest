@@ -45,4 +45,4 @@ print(CodeAndName["IBM"])
 # 开发版本1.8.9
 # 开发版本1.8.10 by other
 # 开发版本1.8.11
-# Dev by AVA
+# 开发版本1.8.12
